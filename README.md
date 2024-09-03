@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliestroun14&label=Profile%20views&color=0e75b6&style=flat" alt="eliestroun14" /> </p>
 
-- 🔭 I’m currently working on **SecureCI** [https://github.com/PoCInnovation/SecureCI](toto)
+- 🔭 I’m currently working on [**SecureCI**](https://github.com/PoCInnovation/SecureCI)
 
 - 🌱 I’m currently learning **Web Developpment (Next.js, Spring boot, Angular)**
 
