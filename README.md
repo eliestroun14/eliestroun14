@@ -1,5 +1,6 @@
 <h1 align="center">I'm Elie Stroun</h1>
 <h3 align="center">Second year student at Epitech - The school of IT excellence</h3>
+<h3 align="center">Head of Software Events at PoC - Epitech Innovation Center</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliestroun14&label=Profile%20views&color=0e75b6&style=flat" alt="eliestroun14" /> </p>
 
