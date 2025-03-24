@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliestroun14&label=Profile%20views&color=0e75b6&style=flat" alt="eliestroun14" /> </p>
 
-- 🔭 I’m currently working on [**SecureCI**](https://github.com/PoCInnovation/SecureCI)
+- 🔭 I’m currently working on **my homelab**
 
-- 🌱 I’m currently learning **Web Developpment (Next.js, Spring boot, Angular)**
+- 🌱 I’m currently interested by **embedded systems (C, IoT) & Cybersec**
 
 - 👨‍💻 Some of my projects are available at [**My portfolio**](https://mon-portefolio.vercel.app/)
 
